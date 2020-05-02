@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # for icon change 
 
-flutter pub get.
+flutter pub get
 
 flutter pub run flutter_launcher_icons:main
